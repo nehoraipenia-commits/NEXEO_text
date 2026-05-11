@@ -23,7 +23,7 @@ This code will allow you to:
 
 ### Visit our website
 
-https://nexeo-linux-security.netlify.app/
+https://nexeo-text.netlify.app/
 
 ### For more informations
 
