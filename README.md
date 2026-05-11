@@ -21,7 +21,7 @@ This code will allow you to:
 - make codes
 - edit your text files
 
-### Vist our website
+### Visit our website
 
 https://nexeo-linux-security.netlify.app/
 
